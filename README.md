@@ -1,2 +1,2 @@
 # Coursera_Capstone
-ibm
+This project is for the Coursera Capstone project from IBM.
